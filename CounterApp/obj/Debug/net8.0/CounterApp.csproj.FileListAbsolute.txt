@@ -1,0 +1,15 @@
+C:\MyRepos\PractiseGithub\CounterApp\bin\Debug\net8.0\CounterApp.exe
+C:\MyRepos\PractiseGithub\CounterApp\bin\Debug\net8.0\CounterApp.deps.json
+C:\MyRepos\PractiseGithub\CounterApp\bin\Debug\net8.0\CounterApp.runtimeconfig.json
+C:\MyRepos\PractiseGithub\CounterApp\bin\Debug\net8.0\CounterApp.dll
+C:\MyRepos\PractiseGithub\CounterApp\bin\Debug\net8.0\CounterApp.pdb
+C:\MyRepos\PractiseGithub\CounterApp\obj\Debug\net8.0\CounterApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyRepos\PractiseGithub\CounterApp\obj\Debug\net8.0\CounterApp.AssemblyInfoInputs.cache
+C:\MyRepos\PractiseGithub\CounterApp\obj\Debug\net8.0\CounterApp.AssemblyInfo.cs
+C:\MyRepos\PractiseGithub\CounterApp\obj\Debug\net8.0\CounterApp.csproj.CoreCompileInputs.cache
+C:\MyRepos\PractiseGithub\CounterApp\obj\Debug\net8.0\CounterApp.sourcelink.json
+C:\MyRepos\PractiseGithub\CounterApp\obj\Debug\net8.0\CounterApp.dll
+C:\MyRepos\PractiseGithub\CounterApp\obj\Debug\net8.0\refint\CounterApp.dll
+C:\MyRepos\PractiseGithub\CounterApp\obj\Debug\net8.0\CounterApp.pdb
+C:\MyRepos\PractiseGithub\CounterApp\obj\Debug\net8.0\CounterApp.genruntimeconfig.cache
+C:\MyRepos\PractiseGithub\CounterApp\obj\Debug\net8.0\ref\CounterApp.dll
