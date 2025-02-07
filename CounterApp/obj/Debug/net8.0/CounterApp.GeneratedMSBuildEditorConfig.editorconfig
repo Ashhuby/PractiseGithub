@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CounterApp
-build_property.ProjectDir = C:\MyRepos\PractiseGithub\CounterApp\
+build_property.ProjectDir = C:\MyRepos\Extra\Labsheets\PractiseGithub\CounterApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
